@@ -11,7 +11,7 @@ Este dashboard oferece uma análise detalhada sobre os clientes da loja:
 - **Faixa Etária:** Gráfico categorizando os clientes por faixa etária.
 - **Compras por Região:** Quantidade de compras realizadas por cada região.
 - **Evolução dos Cadastros:** Gráfico temporal que exibe o crescimento do número de clientes ao longo do tempo.
-- **Filtro por Região**: Permite a filtragem das informações para cada região do país.
+- **Filtro por Região**: Utizei uma função DAX para agrupar os Estados por região ( uma vez que essa informação não constava na tabela originalmente ), e criei um filtro que permite segmentar as informações para cada região do país.
   
   ![dashboard_ecommerce_clientes](https://github.com/user-attachments/assets/f0d78175-4f14-4145-aede-458661e27476)
 
